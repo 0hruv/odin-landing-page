@@ -136,10 +136,15 @@ a{
     font-weight: 300;
 }
 
+.box{
+    display: block;
+    justify-items: end;
+}
+
 .name{
     font-weight: 700;
     font-size: 22px;
-    padding:20px 0px 0px 450px ;   
+    padding:20px 0px ;  
 }
 
 .action
